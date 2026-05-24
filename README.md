@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/one-last-chance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for One Last Chance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-last-chance/) |
+| **Get License** | [Get License For One Last Chance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-last-chance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull me close inside the amber glow
+> There is something that we both know
+> Leave the shadows at the bedroom door
+> This is what we waited for
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
